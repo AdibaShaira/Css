@@ -1,0 +1,9 @@
+body{
+  background:url(https://www.pexels.com/photo/red-dahlia-flower-60597/)
+}
+div{
+  background-color: purple;
+  border-color: green;
+  border-width: 10px;
+  border-style: groove;
+}

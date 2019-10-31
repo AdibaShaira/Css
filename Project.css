@@ -1,0 +1,32 @@
+h1{
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+}
+td{
+  background-color: black;
+  height: 200px;
+  width: 150px;
+}
+.Art{
+  margin: auto;
+}
+#one{
+  background-color: #FFCDB2;
+  border: 6px solid white;
+}
+#two{
+  background-color: #FFB4A2;
+    border: 6px solid white;
+}
+#three{
+  background-color: #E5989B;
+    border: 6px solid white;
+}
+#four{
+  background-color: #B5838D;
+    border: 6px solid white;
+}
+#five{
+  background-color: #6D6875;
+    border: 6px solid white;
+}
